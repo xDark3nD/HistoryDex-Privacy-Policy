@@ -12,6 +12,6 @@
 All the data is stored on a PostgreSQL server, which runs on my operating system of Windows 10, protected by VPNs and a strong firewall to ensure user data is not breached nor abused. Interaction between the bot and the database is exclusively local using Tortoise ORM.
 # Access to the data
 The only person that accesses and views any data is the application only. 
-Only dark3nd has direct access to the code and the self-hosting application. dark3nd does not use the data, and only the bot does to ping the PostgreSQL server and use the bot to function properly. Users’ data will never be made public, and the access to the data is secured accordingly.
+Only dark3nd has direct access to the code and the self-hosting application. dark3nd does not use the data, and only the bot does to ping the PostgreSQL server and have the bot to function properly. Users’ data will never be made public, and the access to the data is secured accordingly.
 # Your rights
 You may request a copy or the deletion of your personal data held by the application by contacting the application owner. The recommended way is sending a message and/or friend request to dark3nd on Discord, or emailing “historydex.dark3nd@gmail.com”.
