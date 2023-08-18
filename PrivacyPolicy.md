@@ -3,7 +3,9 @@
 - User IDs to identify you in the database.
 - Server (or guild) IDs, this is used to store settings necessary to the bot’s operation.
 - Channel IDs, this is used to know which channel the collectibles shall spawn.
+
 **In addition, the following data to HistoryDex is created and used**
+
 - The list of collectibles owned by a user of the service.
 - A history of trades done on collectibles, including the users that once owned the said collectible but do not anymore.
 # How the data is stored
